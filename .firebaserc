@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oshop-daadd": {
+      "hosting": {
+        "oshop": [
+          "oshop-daadd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-daadd"
+  }
+}
